@@ -3,8 +3,7 @@
 <div style="display: flex; flex-direction: row;">
     <div style="flex: 1; padding: 0 10px;">
         <h1><strong>Janet Namutebi</strong></h1>
-        <p>Masters of Science in Engineering and Technology Entrepreneurship, University of Notre Dame, IN, USA</p>
-        <!-- Social Media Links with Icons -->
+        <p>Masters of Science in Engineering and Technology Entrepreneurship, University of Notre Dame, IN, USA. </p>
        <p>
            <a href="https://twitter.com/janetjanx" target="_blank" title="Twitter"><i class="fab fa-twitter"></i>Twitter |</a>
            <a href="https://linkedin.com/in/janetnamutebi" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i>LinkedIn |</a>
